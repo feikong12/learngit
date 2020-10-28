@@ -16,3 +16,6 @@ Git has a mutable index called stage.
 
 change in dev branch
 Creating a new branch is quick.
+
+first change in feature1
+Creating a new branch is quick AND simple.
