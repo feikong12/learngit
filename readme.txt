@@ -8,3 +8,8 @@ Git is free software.
 the second change:
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
+
+the third change:
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+Git has a mutable index called stage.
